@@ -15,6 +15,7 @@ header.masthead .intro-text {
   font-style: normal;
   text-transform: uppercase;
   color: #faca16;
+  text-shadow: 0px 0px 5px darkgray;
 }
 
 #mainNav .logoblack {
@@ -25,6 +26,7 @@ header.masthead .intro-text {
   padding-top: 0;
   padding-bottom: 0;
   background-color: #218380;
+  text-shadow: none;
 }
 
 .nav-link {
