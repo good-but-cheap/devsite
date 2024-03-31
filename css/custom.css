@@ -19,11 +19,11 @@ header.masthead .intro-text .intro-heading {
   color: #faca16;
 }
 
-#mainNav .navbar-shadow.navbar-brand {
+.navbar-shadow {
   text-shadow: 0px 0px 5px darkgray;
 }
 
-#mainNav .navbar-shrink.navbar-brand.navbar-shadow {
+.navbar-shadow.navbar-shrink {
   text-shadow: none;
 }
 
