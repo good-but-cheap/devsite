@@ -17,6 +17,9 @@ header.masthead .intro-text .intro-heading {
   font-style: normal;
   text-transform: uppercase;
   color: #faca16;
+}
+
+#mainNav.navbar-shrink .navbar-brand
   text-shadow: 0px 0px 5px darkgray;
 }
 
@@ -28,6 +31,9 @@ header.masthead .intro-text .intro-heading {
   padding-top: 0;
   padding-bottom: 0;
   background-color: #218380;
+}
+
+#mainNav.navbar-shrink .navbar-brand
   text-shadow: none;
 }
 
